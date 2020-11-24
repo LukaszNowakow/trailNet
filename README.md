@@ -1,2 +1,2 @@
 # trailNet
-CNN for trail semantic egmentation
+CNN for trail semantic segmentation
